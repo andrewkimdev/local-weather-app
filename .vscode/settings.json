@@ -1,0 +1,25 @@
+{
+  "debug.openExplorerOnEnd": true,
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    90
+  ],
+  "editor.autoIndent": "full",
+  "editor.cursorBlinking": "solid",
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.fixAll": true,
+  },
+  "explorer.openEditors.visible": 0,
+  "files.trimTrailingWhitespace": true,
+  "files.autoSave": "onFocusChange",
+  "git.confirmSync": false,
+  "git.enableSmartCommit": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.iconTheme": "vs-seti",
+  "html.autoClosingTags": false,
+}
